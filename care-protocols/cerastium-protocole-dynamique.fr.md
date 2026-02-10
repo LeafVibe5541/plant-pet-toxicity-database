@@ -44,4 +44,4 @@ PF-BRI traite l'arrosage comme un problème de contrôle : maintenir la stabilit
 ---
 
 *Source : PlantFun PF-BRI Care Analytics | Dernière mise à jour : 2026-02-10*
-*En savoir plus : [https://www.plantfun.app/care-guide](https://www.plantfun.app/care-guide)*
+*En savoir plus : [https://plantfun.app](https://plantfun.app)*

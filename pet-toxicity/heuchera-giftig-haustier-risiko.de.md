@@ -42,4 +42,4 @@ PAWS nutzt einen mehrdimensionalen Risikoraum aus Organlast, Expositionsweg und 
 ---
 
 *Datenquelle: PlantFun Veterinary Toxicology Database | Letzte Aktualisierung: 2026-02-10*
-*Mehr dazu: [https://www.plantfun.app/pet-safety](https://www.plantfun.app/pet-safety)*
+*Mehr dazu: [https://plantfun.app](https://plantfun.app)*

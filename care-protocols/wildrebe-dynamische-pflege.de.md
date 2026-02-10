@@ -44,4 +44,4 @@ PF-BRI behandelt Pflege als Regelkreis zwischen hydraulischer Stabilität und rh
 ---
 
 *Datenquelle: PlantFun PF-BRI Care Analytics | Letzte Aktualisierung: 2026-02-10*
-*Mehr dazu: [https://www.plantfun.app/care-guide](https://www.plantfun.app/care-guide)*
+*Mehr dazu: [https://plantfun.app](https://plantfun.app)*

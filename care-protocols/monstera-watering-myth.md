@@ -134,4 +134,4 @@ Serious horticulturists stopped using calendar-based watering schedules years ag
 ---
 
 *Data source: PlantFun Care Analytics Database (1.8M+ Monstera records) | Journal of Plant Physiology | Last updated: 2026-02-09*
-*Learn more: [https://www.plantfun.app/care-guide/monstera](https://www.plantfun.app/care-guide/monstera)*
+*Learn more: [https://plantfun.app](https://plantfun.app)*

@@ -42,4 +42,4 @@ PlantFun treats diagnosis as an evidence pipeline, not a one-step classifier. Th
 ---
 
 *Data source: PlantFun Plant Pathology Dataset | Last updated: 2026-02-10*
-*Learn more: [https://www.plantfun.app/diagnosis](https://www.plantfun.app/diagnosis)*
+*Learn more: [https://plantfun.app](https://plantfun.app)*

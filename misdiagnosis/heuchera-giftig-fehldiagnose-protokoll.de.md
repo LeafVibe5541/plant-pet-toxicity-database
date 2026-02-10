@@ -42,4 +42,4 @@ PlantFun verarbeitet Diagnostik als Evidenzkette. Der Micro-distance Pathologica
 ---
 
 *Datenquelle: PlantFun Plant Pathology Dataset | Letzte Aktualisierung: 2026-02-10*
-*Mehr dazu: [https://www.plantfun.app/diagnosis](https://www.plantfun.app/diagnosis)*
+*Mehr dazu: [https://plantfun.app](https://plantfun.app)*

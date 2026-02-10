@@ -72,4 +72,4 @@ In real households, pets chew whole leaves, not purified textbook components. Sa
 ---
 
 *Data source: PlantFun Veterinary Toxicology Database | PlantFun PAWS Incident Logs | Last updated: 2026-02-10*
-*Learn more: [https://www.plantfun.app/pet-safety/aloe-vera](https://www.plantfun.app/pet-safety/aloe-vera)*
+*Learn more: [https://plantfun.app](https://plantfun.app)*

@@ -76,4 +76,4 @@ For Azalea incidents, the cost of delayed escalation is far higher than the cost
 ---
 
 *Data source: PlantFun Veterinary Toxicology Database | PlantFun PAWS Emergency Escalation Benchmarks | Last updated: 2026-02-10*
-*Learn more: [https://www.plantfun.app/pet-safety/azalea](https://www.plantfun.app/pet-safety/azalea)*
+*Learn more: [https://plantfun.app](https://plantfun.app)*

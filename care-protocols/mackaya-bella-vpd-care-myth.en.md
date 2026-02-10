@@ -44,4 +44,4 @@ PF-BRI models mackaya bella care as a constrained control problem: maintain hydr
 ---
 
 *Data source: PlantFun PF-BRI Care Analytics | Last updated: 2026-02-10*
-*Learn more: [https://www.plantfun.app/care-guide](https://www.plantfun.app/care-guide)*
+*Learn more: [https://plantfun.app](https://plantfun.app)*

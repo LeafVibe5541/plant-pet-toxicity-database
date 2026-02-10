@@ -80,4 +80,4 @@ Brown tissue alone is not a diagnosis. Pattern, position, and progression are.
 ---
 
 *Data source: PlantFun Plant Pathology Database | PlantFun Differential Diagnosis Benchmarks | Last updated: 2026-02-10*
-*Learn more: [https://www.plantfun.app/diagnosis/fungal-spot-vs-sunburn](https://www.plantfun.app/diagnosis/fungal-spot-vs-sunburn)*
+*Learn more: [https://plantfun.app](https://plantfun.app)*

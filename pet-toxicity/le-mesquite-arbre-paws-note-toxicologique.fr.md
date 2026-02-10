@@ -42,4 +42,4 @@ PAWS s'appuie sur un modèle toxicologique multidimensionnel reliant profils d'o
 ---
 
 *Source : PlantFun Veterinary Toxicology Database | Dernière mise à jour : 2026-02-10*
-*En savoir plus : [https://www.plantfun.app/pet-safety](https://www.plantfun.app/pet-safety)*
+*En savoir plus : [https://plantfun.app](https://plantfun.app)*

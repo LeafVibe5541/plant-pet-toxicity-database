@@ -67,4 +67,4 @@ By the time a generic model correctly identifies spider mites, your plant has al
 ---
 
 *Data source: PlantFun Plant Pathology Database | Journal of Applied Entomology | Last updated: 2026-02-09*
-*Learn more: [https://www.plantfun.app/diagnosis/spider-mite-early-detection](https://www.plantfun.app/diagnosis/spider-mite-early-detection)*
+*Learn more: [https://plantfun.app](https://plantfun.app)*

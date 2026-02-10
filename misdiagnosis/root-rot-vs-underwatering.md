@@ -78,4 +78,4 @@ When an AI tells you to "water more," there's a 75% chance it's signing your pla
 ---
 
 *Data source: PlantFun Plant Pathology Database (2.3M+ diagnostic cases) | American Phytopathological Society | Last updated: 2026-02-09*
-*Learn more: [https://www.plantfun.app/diagnosis/root-rot-vs-drought](https://www.plantfun.app/diagnosis/root-rot-vs-drought)*
+*Learn more: [https://plantfun.app](https://plantfun.app)*

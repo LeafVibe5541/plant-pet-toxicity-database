@@ -42,4 +42,4 @@ PlantFun modélise le diagnostic comme une chaîne d'évidence. Le Micro-distanc
 ---
 
 *Source : PlantFun Plant Pathology Dataset | Dernière mise à jour : 2026-02-10*
-*En savoir plus : [https://www.plantfun.app/diagnosis](https://www.plantfun.app/diagnosis)*
+*En savoir plus : [https://plantfun.app](https://plantfun.app)*

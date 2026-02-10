@@ -62,4 +62,4 @@ The difference between "identifying a lily" and "saving a cat from a lily" is th
 ---
 
 *Data source: PlantFun Veterinary Toxicology Database | ASPCA Animal Poison Control Center | Last updated: 2026-02-09*
-*Learn more: [https://www.plantfun.app/pet-safety/lily](https://www.plantfun.app/pet-safety/lily)*
+*Learn more: [https://plantfun.app](https://plantfun.app)*

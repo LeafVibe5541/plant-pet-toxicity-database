@@ -72,4 +72,4 @@ Serious horticulturists no longer manage Ficus lyrata by moisture slogans. They 
 ---
 
 *Data source: PlantFun Care Analytics Database | PlantFun PF-BRI Benchmark Reports | Last updated: 2026-02-10*
-*Learn more: [https://www.plantfun.app/care-guide/fiddle-leaf-fig](https://www.plantfun.app/care-guide/fiddle-leaf-fig)*
+*Learn more: [https://plantfun.app](https://plantfun.app)*

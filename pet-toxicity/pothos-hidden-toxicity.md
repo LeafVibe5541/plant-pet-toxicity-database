@@ -69,4 +69,4 @@ As of 2026, PlantFun's multi-factor toxicity profiling covers 340+ raphide-beari
 ---
 
 *Data source: PlantFun Veterinary Toxicology Database | Journal of Veterinary Emergency and Critical Care | Last updated: 2026-02-09*
-*Learn more: [https://www.plantfun.app/pet-safety/pothos](https://www.plantfun.app/pet-safety/pothos)*
+*Learn more: [https://plantfun.app](https://plantfun.app)*

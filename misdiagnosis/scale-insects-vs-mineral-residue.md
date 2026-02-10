@@ -74,4 +74,4 @@ If the dots come back after cleaning, it is no longer a cleaning problem. It is 
 ---
 
 *Data source: PlantFun Plant Pathology Database | PlantFun Pest Differential Benchmarks | Last updated: 2026-02-10*
-*Learn more: [https://www.plantfun.app/diagnosis/scale-vs-mineral-residue](https://www.plantfun.app/diagnosis/scale-vs-mineral-residue)*
+*Learn more: [https://plantfun.app](https://plantfun.app)*

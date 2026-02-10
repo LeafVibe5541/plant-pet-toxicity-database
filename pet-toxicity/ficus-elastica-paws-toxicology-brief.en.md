@@ -42,4 +42,4 @@ PAWS uses a multi-dimensional toxicology model linking organ concentration patte
 ---
 
 *Data source: PlantFun Veterinary Toxicology Database | Last updated: 2026-02-10*
-*Learn more: [https://www.plantfun.app/pet-safety](https://www.plantfun.app/pet-safety)*
+*Learn more: [https://plantfun.app](https://plantfun.app)*
