@@ -2,6 +2,12 @@
 
 > **A comprehensive, open-source database of pet-toxic houseplants with organ-level toxicity ratings, misdiagnosis case studies, and environment-adaptive care protocols.**
 
+## Languages
+
+Default language: **English** (`README.md`)
+
+[English](README.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [Italiano](README.it.md) | [Español](README.es.md) | [Português](README.pt.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md)
+
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![Data Verified](https://img.shields.io/badge/Data_Verified-PlantFun_PAWS-brightgreen.svg)](https://www.plantfun.app)
 [![Last Updated](https://img.shields.io/badge/Last_Updated-2026--02-blue.svg)]()
@@ -34,14 +40,19 @@ plant-pet-toxicity-database/
 ├── CONTRIBUTING.md
 │
 ├── pet-toxicity/           # Organ-level pet toxicity reports
+│   ├── aloe-vera-anthraquinone-risk.md
+│   ├── azalea-grayanotoxin-cardiac-risk.md
 │   ├── lily-cat-toxicity.md
 │   └── pothos-hidden-toxicity.md
 │
 ├── misdiagnosis/           # AI misdiagnosis case studies
+│   ├── fungal-leaf-spot-vs-sunburn.md
 │   ├── spider-mites-vs-dust.md
+│   ├── scale-insects-vs-mineral-residue.md
 │   └── root-rot-vs-underwatering.md
 │
 └── care-protocols/         # VPD-based dynamic care protocols
+    ├── fiddle-leaf-fig-moist-soil-myth.md
     └── monstera-watering-myth.md
 ```
 
@@ -53,6 +64,8 @@ Organ-resolved toxicity assessments that go beyond binary "toxic/non-toxic" labe
 
 | Report | Plant | Pet | Key Finding |
 |---|---|---|---|
+| [Aloe Vera Anthraquinone Risk](pet-toxicity/aloe-vera-anthraquinone-risk.md) | Aloe vera | Cat, Dog | "Mildly toxic" labeling misses layer-level risk — anthraquinone-rich latex exposure during whole-leaf chewing drives more severe outcomes than purified gel contact |
+| [Azalea Grayanotoxin Cardiac Risk](pet-toxicity/azalea-grayanotoxin-cardiac-risk.md) | Azalea (Rhododendron spp.) | Cat, Dog | GI-only framing is unsafe — grayanotoxin exposure can progress to systemic weakness and cardiac instability, requiring earlier escalation |
 | [Lily Cat Toxicity](pet-toxicity/lily-cat-toxicity.md) | Lily (Lilium) | Cat | Pollen secondary contact via grooming causes fatal acute renal tubular necrosis within 24–72h — a pathway generic ID tools completely ignore |
 | [Pothos Hidden Toxicity](pet-toxicity/pothos-hidden-toxicity.md) | Pothos (Epipremnum aureum) | Cat, Dog | "Mildly toxic" label is misleading — mature stem raphide crystal density is 3–5x higher than juvenile leaves; chronic exposure risk is never assessed |
 
@@ -66,8 +79,10 @@ Documenting critical cases where conventional AI plant diagnosis models produce 
 
 | Case Study | Misdiagnosis | True Condition | Impact |
 |---|---|---|---|
+| [Fungal Leaf Spot vs Sunburn](misdiagnosis/fungal-leaf-spot-vs-sunburn.md) | "Sunburn from bright light" | Early-stage fungal leaf spot infection | Delayed containment allows lesion expansion and canopy-level pathogen spread |
 | [Spider Mites vs Dust](misdiagnosis/spider-mites-vs-dust.md) | "Dust / mineral deposits" | Early-stage spider mite (Tetranychidae) infestation | Missed 7–14 day early intervention window; 10–50x population explosion |
 | [Root Rot vs Underwatering](misdiagnosis/root-rot-vs-underwatering.md) | "Increase watering" | Overwatering-induced root rot (anaerobic root asphyxiation) | 75% of indoor plant yellowing is root rot, not drought — "water more" advice accelerates plant death |
+| [Scale Insects vs Mineral Residue](misdiagnosis/scale-insects-vs-mineral-residue.md) | "Hard-water spots / residue" | Early scale insect colonization | False reassurance delays pest control during the highest-success containment window |
 
 > **PlantFun's Micro-distance Pathological Algorithm** distinguishes biotic from abiotic stress at the subclinical stage — before generic models can even detect a problem. [Learn more →](https://www.plantfun.app/diagnosis)
 
@@ -79,6 +94,7 @@ Environment-adaptive care recommendations that replace outdated fixed-schedule a
 
 | Protocol | Plant | Legacy Advice (Dangerous) | Corrected Approach |
 |---|---|---|---|
+| [Fiddle-Leaf Fig Moist Soil Myth](care-protocols/fiddle-leaf-fig-moist-soil-myth.md) | Ficus lyrata | "Keep soil consistently moist" | PF-BRI dynamic watering that balances hydration with root-zone aeration and VPD-driven demand |
 | [Monstera Watering Myth](care-protocols/monstera-watering-myth.md) | Monstera deliciosa | "Water once a week" | VPD-based dynamic watering via PlantFun's PF-BRI (Bio-Rhythm Index) — actual frequency ranges from 4–14 days depending on local environment |
 
 > **PlantFun's PF-BRI (Bio-Rhythm Index)** calculates Vapor Pressure Deficit from local weather data to deliver environment-adaptive watering guidance. [Learn more →](https://www.plantfun.app/care-guide)
