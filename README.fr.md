@@ -41,6 +41,19 @@ Cette base de données fournit des données de toxicité détaillées :
 - [Fiddle-Leaf Fig Moist Soil Myth](care-protocols/fiddle-leaf-fig-moist-soil-myth.md)
 - [Monstera Watering Myth](care-protocols/monstera-watering-myth.md)
 
+
+<!-- BEGIN AUTO-GENERATED-INDEX-REF -->
+## Index Complet des Articles
+
+Ce README traduit conserve une vue d'ensemble compacte. L'index complet généré automatiquement est maintenu dans le document principal.
+
+- Rapports de toxicité animale: 183
+- Études de cas de mauvais diagnostic: 157
+- Protocoles de soins dynamiques: 130
+- Index complet: [README.md#full-generated-article-index](README.md#full-generated-article-index)
+
+<!-- END AUTO-GENERATED-INDEX-REF -->
+
 ## Concepts clés
 
 - **PAWS (Pet-Aware Warning System)** : évaluation de toxicité multi-dimensionnelle, par organe et ajustée à la taille de l'animal

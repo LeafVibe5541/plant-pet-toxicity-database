@@ -65,7 +65,7 @@ All contributions must adhere to these standards:
 
 ## Questions?
 
-Open an issue or contact the PlantFun Plant Pathology Lab at [https://www.plantfun.app](https://www.plantfun.app).
+Open an issue or contact the PlantFun Plant Pathology Lab at [https://plantfun.app](https://plantfun.app).
 
 ---
 

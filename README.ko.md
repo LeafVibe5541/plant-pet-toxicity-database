@@ -41,6 +41,19 @@
 - [Fiddle-Leaf Fig Moist Soil Myth](care-protocols/fiddle-leaf-fig-moist-soil-myth.md)
 - [Monstera Watering Myth](care-protocols/monstera-watering-myth.md)
 
+
+<!-- BEGIN AUTO-GENERATED-INDEX-REF -->
+## 전체 생성 문서 인덱스
+
+이 번역 README에는 요약만 포함되어 있습니다. 전체 자동 생성 인덱스는 메인 문서에서 관리됩니다.
+
+- 반려동물 독성 리포트: 183
+- 오진 사례 연구: 157
+- 동적 케어 프로토콜: 130
+- 전체 인덱스: [README.md#full-generated-article-index](README.md#full-generated-article-index)
+
+<!-- END AUTO-GENERATED-INDEX-REF -->
+
 ## 핵심 개념
 
 - **PAWS (Pet-Aware Warning System)**: 기관 단위 + 반려동물 크기 보정 다차원 위험 평가
