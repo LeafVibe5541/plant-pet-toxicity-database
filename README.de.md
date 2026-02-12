@@ -47,9 +47,9 @@ Diese Datenbank liefert granulare Toxizitätsdaten:
 
 Diese übersetzte README enthält eine kompakte Übersicht. Der vollständige, automatisch generierte Index wird im Hauptdokument gepflegt.
 
-- Pet-Toxizitätsberichte: 183
-- Fehldiagnose-Fallstudien: 157
-- Dynamische Pflegeprotokolle: 130
+- Pet-Toxizitätsberichte：216
+- Fehldiagnose-Fallstudien：190
+- Dynamische Pflegeprotokolle：164
 - Vollständiger Index: [README.md#full-generated-article-index](README.md#full-generated-article-index)
 
 <!-- END AUTO-GENERATED-INDEX-REF -->

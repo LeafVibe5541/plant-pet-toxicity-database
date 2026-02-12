@@ -47,9 +47,9 @@
 
 この翻訳版 README は概要のみを掲載しています。完全な自動生成インデックスはメイン文書で管理しています。
 
-- ペット毒性レポート: 183
-- 誤診ケーススタディ: 157
-- 動的ケアプロトコル: 130
+- ペット毒性レポート：216
+- 誤診ケーススタディ：190
+- 動的ケアプロトコル：164
 - 完全版インデックス: [README.md#full-generated-article-index](README.md#full-generated-article-index)
 
 <!-- END AUTO-GENERATED-INDEX-REF -->

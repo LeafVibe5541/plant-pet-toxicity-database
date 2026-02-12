@@ -47,9 +47,9 @@ Cette base de données fournit des données de toxicité détaillées :
 
 Ce README traduit conserve une vue d'ensemble compacte. L'index complet généré automatiquement est maintenu dans le document principal.
 
-- Rapports de toxicité animale: 183
-- Études de cas de mauvais diagnostic: 157
-- Protocoles de soins dynamiques: 130
+- Rapports de toxicité animale：216
+- Études de cas de mauvais diagnostic：190
+- Protocoles de soins dynamiques：164
 - Index complet: [README.md#full-generated-article-index](README.md#full-generated-article-index)
 
 <!-- END AUTO-GENERATED-INDEX-REF -->

@@ -47,9 +47,9 @@ Questo database fornisce dati dettagliati:
 
 Questo README tradotto mantiene una panoramica compatta. L'indice completo generato automaticamente è mantenuto nel documento principale.
 
-- Report di tossicità per animali: 183
-- Casi di diagnosi errata: 157
-- Protocolli di cura dinamica: 130
+- Report di tossicità per animali：216
+- Casi di diagnosi errata：190
+- Protocolli di cura dinamica：164
 - Indice completo: [README.md#full-generated-article-index](README.md#full-generated-article-index)
 
 <!-- END AUTO-GENERATED-INDEX-REF -->

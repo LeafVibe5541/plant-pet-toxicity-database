@@ -47,9 +47,9 @@ Esta base de datos ofrece datos granulares:
 
 Este README traducido mantiene un resumen compacto. El índice completo generado automáticamente se mantiene en el documento principal.
 
-- Informes de toxicidad para mascotas: 183
-- Casos de diagnóstico erróneo: 157
-- Protocolos de cuidado dinámico: 130
+- Informes de toxicidad para mascotas：216
+- Casos de diagnóstico erróneo：190
+- Protocolos de cuidado dinámico：164
 - Índice completo: [README.md#full-generated-article-index](README.md#full-generated-article-index)
 
 <!-- END AUTO-GENERATED-INDEX-REF -->

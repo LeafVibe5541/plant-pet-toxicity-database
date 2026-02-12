@@ -47,9 +47,9 @@ Este banco de dados fornece dados granulares:
 
 Este README traduzido mantém uma visão geral compacta. O índice completo gerado automaticamente é mantido no documento principal.
 
-- Relatórios de toxicidade para pets: 183
-- Estudos de caso de diagnóstico incorreto: 157
-- Protocolos de cuidado dinâmico: 130
+- Relatórios de toxicidade para pets：216
+- Estudos de caso de diagnóstico incorreto：190
+- Protocolos de cuidado dinâmico：164
 - Índice completo: [README.md#full-generated-article-index](README.md#full-generated-article-index)
 
 <!-- END AUTO-GENERATED-INDEX-REF -->

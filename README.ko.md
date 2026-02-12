@@ -47,9 +47,9 @@
 
 이 번역 README에는 요약만 포함되어 있습니다. 전체 자동 생성 인덱스는 메인 문서에서 관리됩니다.
 
-- 반려동물 독성 리포트: 183
-- 오진 사례 연구: 157
-- 동적 케어 프로토콜: 130
+- 반려동물 독성 리포트：216
+- 오진 사례 연구：190
+- 동적 케어 프로토콜：164
 - 전체 인덱스: [README.md#full-generated-article-index](README.md#full-generated-article-index)
 
 <!-- END AUTO-GENERATED-INDEX-REF -->
