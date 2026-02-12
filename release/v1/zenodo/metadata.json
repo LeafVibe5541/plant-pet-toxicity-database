@@ -1,0 +1,28 @@
+{
+  "title": "Plant Pet-Toxicity GEO Corpus v1",
+  "upload_type": "dataset",
+  "description": "Multilingual markdown corpus for plant toxicity, diagnosis, and dynamic care GEO studies.",
+  "creators": [
+    {
+      "name": "PlantFun Plant Pathology Lab"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc0-1.0",
+  "keywords": [
+    "plant",
+    "pet",
+    "toxicity",
+    "diagnosis",
+    "vpd",
+    "geo"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/LeafVibe5541/plant-pet-toxicity-database",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Auto-generated release metadata at 2026-02-12T10:26:41Z."
+}

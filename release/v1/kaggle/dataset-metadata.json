@@ -1,0 +1,27 @@
+{
+  "title": "Plant Pet-Toxicity GEO Corpus v1",
+  "id": "leafvibe5541/plant-pet-toxicity-geo-corpus-v1",
+  "licenses": [
+    {
+      "name": "CC0-1.0"
+    }
+  ],
+  "subtitle": "Organ-level toxicity, misdiagnosis, and dynamic care markdown corpus",
+  "description": "Multilingual markdown corpus exported from the Plant Pet-Toxicity Database. Includes pet toxicity reports, AI misdiagnosis case studies, and VPD-based care protocols.",
+  "keywords": [
+    "plant",
+    "pet safety",
+    "toxicity",
+    "diagnosis",
+    "horticulture",
+    "multilingual"
+  ],
+  "isPrivate": false,
+  "collaborators": [],
+  "data": [
+    {
+      "description": "article metadata and paths",
+      "name": "articles.csv"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "generated_at_utc": "2026-02-12T10:26:41Z",
+  "repository_url": "https://github.com/LeafVibe5541/plant-pet-toxicity-database",
+  "total_articles": 1313,
+  "counts_by_category": {
+    "Dynamic Care Protocols": 407,
+    "Misdiagnosis Case Studies": 408,
+    "Pet Toxicity Reports": 498
+  },
+  "counts_by_language": {
+    "de": 186,
+    "en": 701,
+    "es": 19,
+    "fr": 168,
+    "it": 1,
+    "ja": 1,
+    "ko": 1,
+    "pt": 1,
+    "unspecified": 15,
+    "zh-CN": 188,
+    "zh-TW": 32
+  }
+}
