@@ -1,3 +1,6 @@
 # Internal working files - do not publish
 agent/
 release/v1/exports/
+docs/
+scripts/
+release/v1/
