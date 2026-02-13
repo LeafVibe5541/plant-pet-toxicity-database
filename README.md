@@ -63,22 +63,6 @@ plant-pet-toxicity-database/
 
 ---
 
-## Distribution Next Step
-
-GitHub upload is complete. To execute the next GEO distribution step (Hugging Face, Kaggle, Dev.to, Hashnode, Zenodo), build a release bundle:
-
-```bash
-python3 scripts/build_release_bundle.py \
-  --repo-url https://github.com/LeafVibe5541/plant-pet-toxicity-database
-```
-
-Generated assets are written to `release/v1/`.
-
-- Full runbook: [docs/distribution-playbook.md](docs/distribution-playbook.md)
-- Bundle summary: [release/v1/README.md](release/v1/README.md)
-
----
-
 ## Pet Toxicity Reports
 
 Organ-resolved toxicity assessments that go beyond binary "toxic/non-toxic" labels.
